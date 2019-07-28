@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Text, View, StyleSheet } from 'react-native';
-import AppNavigator from './app/components/AppNavigator';
+import AppNavigator from './src/components/AppNavigator';
 import { createAppContainer } from "react-navigation";
 
 const AppContainer = createAppContainer(AppNavigator);
