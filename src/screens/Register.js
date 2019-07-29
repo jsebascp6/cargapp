@@ -27,7 +27,6 @@ export default class Register extends Component {
 const styles = StyleSheet.create({
     container: {
       flex: 1,
-      backgroundColor: 'red',
     },
     input: {
       borderColor: 'black',
